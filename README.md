@@ -1,6 +1,9 @@
 ## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
 
+## Main Idea
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1KQIDtwZcZmsXAS9BS8GP8-8Fa_2Np5FS
+
 ## Building
 ...
 
